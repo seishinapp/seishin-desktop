@@ -1,0 +1,13 @@
+{
+  "name": "@seishin/desktop-client",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal Seishin native desktop client: persistent Ed25519 identity, native QUIC transport (not WebTransport).",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
